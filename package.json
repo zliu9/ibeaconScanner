@@ -1,0 +1,16 @@
+{
+  "name": "ibeaconScanner",
+  "version": "0.1.0",
+  "description": "Scan ibeacon device and get its distance",
+  "homepage": "https://github.com/zliu9/ibeaconScanner",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zliu9/ibeaconScanner"
+  },
+  "license": {
+    "type": "MIT"
+  },
+  "dependencies": {
+    "noble": "*"
+  }
+}
